@@ -50,7 +50,7 @@ Provides an overview of key performance indicators, including:
 |----|
 [Daily Tracker](https://i.ibb.co/k6xMJm43/Screenshot-2026-11-13-113259.png)
 [Weekly Plan](https://i.ibb.co/99F6PF6z/Screenshot-2026-11-13-113401.png)
-[Job Applications](https://i.ibb.co/CshSvjSD/Screenshot-2026-11-13-114455.png)
+[Job Applications](https://i.ibb.co/xtpNcx5S/Screenshot-2026-11-13-120824.png)
 [Performance Dashboard](https://i.ibb.co/CshSvjSD/Screenshot-2026-11-13-114455.png)
 
 ## Demo Video
