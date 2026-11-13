@@ -57,7 +57,7 @@ Provides an overview of key performance indicators, including:
 
 A walkthrough video demonstrating the workbook will be linked here.
 
-[Click here to watch](https://youtu.be/i2DN7MMT0gk)
+[Click here to watch](https://youtu.be/Bx-UvvdBMXc)
 
 ## Note
 
