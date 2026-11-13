@@ -48,10 +48,10 @@ Provides an overview of key performance indicators, including:
 
 | Workbook Section
 |----|
-[Performance Dashboard](https://i.ibb.co/CshSvjSD/Screenshot-2026-11-13-114455.png)
-[Weekly Plan](https://i.ibb.co/99F6PF6z/Screenshot-2026-11-13-113401.png)
 [Daily Tracker](https://i.ibb.co/k6xMJm43/Screenshot-2026-11-13-113259.png)
-[Job Applications](https://i.ibb.co/1GCqRynp/Screenshot-2026-11-13-113410.png)
+[Weekly Plan](https://i.ibb.co/99F6PF6z/Screenshot-2026-11-13-113401.png)
+[Job Applications](https://i.ibb.co/CshSvjSD/Screenshot-2026-11-13-114455.png)
+[Performance Dashboard](https://i.ibb.co/CshSvjSD/Screenshot-2026-11-13-114455.png)
 
 ## Demo Video
 
